@@ -10,7 +10,7 @@ Instructions to test the Code:
 2. Compile and Deploy this code in RemixIDE
 	-Compile the Smart Contract
 	-Go to Deploy tab
-	-Select "Injected Provider - Metamask" as the Environment (Refer Fig 1.)
+	-Select "Injected Provider - Metamask" as the Environment
 	-Select "MyToken" Contract
 	-Deploy
 
@@ -22,12 +22,4 @@ Instructions to test the Code:
 	-click on 'Add Custom Token'
 
 As, the tokens have now been issued to your wallet,
-You can transfer them to any account from your wallet.
-
-
-Fig 1. ![fig 1.][/images/fig1]
-
-Fig 2. ![fig 2.][/images/fig2]
-
-
-
+You can transfer them to any account from your wallet
